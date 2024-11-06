@@ -15,7 +15,7 @@ This not only helps fund the development of my projects but also provides a fina
 ## License
 All my projects are licensed under:
 
-### The “Commons Clause” License Condition v1.0
+### The “Commons Clause” License Condition v1.1
 
 The Software is provided to you by the Licensor under the License, as defined below, subject to the following condition.
 
@@ -25,6 +25,6 @@ For purposes of the foregoing, “Sell” means practicing any or all of the rig
 
 Software: \<application name>
 
-License: [The Common Development and Distribution License 1.0 ](https://opensource.org/license/cddl-1-0)
+License: [The Common Development and Distribution License 1.0 ](https://spdx.org/licenses/CDDL-1.1.html)
 
 Licensor: com.mr.apps
