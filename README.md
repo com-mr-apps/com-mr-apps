@@ -1,6 +1,8 @@
 Welcome @com-mr-apps [com.mr.apps]
 
-A new chapter starting end of October 2024...
+## History
+* 15.Nov. 2024 - first version '2024.1.1' of JNordVPN Manager published in Snap store
+* A new chapter starting end of October 2024...
 
 ## Donations
 Funding for the ongoing development and maintenance of my projects comes from donations made to me through [https://buymeacoffee.com/3dprototyping](https://buymeacoffee.com/3dprototyping).
