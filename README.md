@@ -1,8 +1,9 @@
 Welcome @com-mr-apps [com.mr.apps]
 
 ## History
-* 15.Nov. 2024 - first version '2024.1.1' of JNordVPN Manager published in Snap store
-* A new chapter starting end of October 2024...
+*  Jan. 12, 2025 - version '2025.1.1' of [JNordVPN Manager](https://github.com/com-mr-apps/JNordVPNManager) is published and hit the 200 installations mark in Snap Store :)
+*  Nov. 15, 2024 - first version '2024.1.1' of [JNordVPN Manager](https://github.com/com-mr-apps/JNordVPNManager) published in Snap store
+* A new chapter starts end of October 2024...
 
 ## Donations
 Funding for the ongoing development and maintenance of my projects comes from donations made to me through [https://buymeacoffee.com/3dprototyping](https://buymeacoffee.com/3dprototyping).
